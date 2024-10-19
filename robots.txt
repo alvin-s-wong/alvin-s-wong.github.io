@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://alvin-s-wong.github.io/sitemap.xml
+Sitemap: https://alvorithm.com/sitemap.xml
 Disallow: /ghost/
 Disallow: /email/
 Disallow: /members/api/comments/counts/
